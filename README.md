@@ -13,6 +13,12 @@ Les sources étant hétérogènes (sites, formats, structuration des biographies
 - `data_history_annoted.csv` : données annotées (`Lien_France`, `Sujet_France`)
 - `sujets_history.csv` : extraction des sujets
 - `themes_france.png` : visualisation thématique
+- `Vietnam_projet/` : continuité du travail (version transmise au professeur), incluant ressources OpenAlex, ressources de thèses et documents de cadrage.
+
+## Continuité du projet
+Ce dépôt regroupe volontairement deux volets dans le même dossier pour garder la continuité du travail :
+- un volet `History France Topics` (annotation/synthèse autour de la France),
+- un volet `Vietnam_projet` (ressources et analyses complémentaires envoyées au professeur).
 
 ## Workflow
 1. Chargement des publications d’historiens
