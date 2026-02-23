@@ -3,7 +3,7 @@
 Sous-projet intégré au dépôt `History-France-Topics`, correspondant à la version transmise au professeur.
 
 ## Auteurs
-Travail réalisé avec Lazar Van Berchem et Noah Boucher.
+Travail réalisé avec lazar van berchem et Noam Chabot.
 
 ## Contenu
 - `READ_ME.pdf` : note de cadrage/document de présentation

@@ -3,7 +3,7 @@
 Analyse de publications académiques en histoire avec annotation assistée par LLM pour détecter les contenus liés à la France et extraire des sujets thématiques.
 
 ## Auteurs
-Projet réalisé avec Lazar Van Berchem et Noah Boucher.
+Projet réalisé avec lazar van berchem et Noam Chabot.
 
 ## Contexte
 Les méthodes de collecte des données ont été réalisées par un ensemble d’étudiants du CPES Sciences des données, art et culture (Lycée Louis-le-Grand et Université PSL).
